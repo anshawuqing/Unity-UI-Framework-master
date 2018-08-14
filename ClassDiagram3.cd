@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MoleMole.DictionaryExtension" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\Extensions\DictionaryExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.TransformExtension" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\Extensions\TransformExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.GameRoot" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.Localization" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUABACAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\Localization\Localization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.LocalizedText" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAAAAABAkAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\Localization\LocalizedText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAABAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.AnimateView" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAIIAAABAAAAA=</HashCode>
+      <FileName>Assets\Foundation\UIBase\AnimateView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.BaseContext" Collapsed="true">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\UIBase\BaseContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.BaseView" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAACAQAAAAAIAAABAAAAA=</HashCode>
+      <FileName>Assets\Foundation\UIBase\BaseView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.ContextManager" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Foundation\UIBase\ContextManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.UIManager" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAICAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\UIBase\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.UIType">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAAAgAAQQAAAAAEAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\UIBase\UIType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.GridScroller" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAgEBAAQAgAABAYAAASAYAMCABQMACIACAAJAQQA=</HashCode>
+      <FileName>Assets\Foundation\UIComponent\GridScroller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.HighScoreItem" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HighScoreItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.HighScoreContext">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HighScoreView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.HighScoreView" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAgAAAAAAAAAAAAQAAAAAIIAAFAAAAA=</HashCode>
+      <FileName>Assets\Script\HighScoreView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.MainMenuContext" Collapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\MainMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.MainMenuView" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAgAAAAAAQAAgAAIAAABAAgAA=</HashCode>
+      <FileName>Assets\Script\MainMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.NextMenuContext">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\NextMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.NextMenuView" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIIIAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\NextMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.OptionMenuContext" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\OptionMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoleMole.OptionMenuView" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAEAAAAAAAAAQAAAAAIIAABAAAAA=</HashCode>
+      <FileName>Assets\Script\OptionMenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UiEffect.BlendColor">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="UiEffect.BlendColor.BLEND_MODE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Foundation\UIEffect\BlendColor.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEABAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Foundation\UIEffect\BlendColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UiEffect.GradientColor" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEABEoAAAAAAAAABAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Foundation\UIEffect\GradientColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleJSON.JSONNode" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYgIAAgDIAEAIgEiAAARAQAACBIEIADABChAAAgEig=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleJSON.JSONArray" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAJAECAAABAQABCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleJSON.JSONClass" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAEAJAECAAABAQAACAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleJSON.JSONData" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAIAAAAAAACAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleJSON.JSONLazyCreator" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAACAAABAAEiAAAAAAAAAAIAIAjABAAAAAAAig=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleJSON.JSON" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SimpleJSON.JSONBinaryTag" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAACAAEAAIAAAAAAAAAAEAAAAAgAAAQAAA=</HashCode>
+      <FileName>Assets\SimpleJSON\SimpleJSON.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
